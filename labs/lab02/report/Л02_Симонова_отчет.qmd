@@ -195,8 +195,6 @@ evdvorkina и guest: drwx------ (рис. 9).
 
 Таблица 2.2 "Минимальные права для совершения операций"
 
-Пример заполнения таблицы 2.2 (рис. 16)
-
 
 # Выводы
 
@@ -204,6 +202,5 @@ evdvorkina и guest: drwx------ (рис. 9).
 
 # Список литературы
 
-::: 1] Операционные системы: https://blog.skillfactory.ru/glossary/operaczionnaya-sistema/
+[1] Операционные системы: https://blog.skillfactory.ru/glossary/operaczionnaya-sistema/
 
-:::
