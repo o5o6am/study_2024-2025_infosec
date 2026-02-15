@@ -12,7 +12,7 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: Внешний курс. Этап 1
+title: Внешний курс. Этап 2
 subtitle: Основы информационной безопасности
 license: CC BY
 date: today
